@@ -1,0 +1,11 @@
+# Maven / Java
+course-app-backend/target/
+
+# Node / Vite
+course-app-frontend/node_modules/
+course-app-frontend/dist/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
